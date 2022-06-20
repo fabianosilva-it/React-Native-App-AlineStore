@@ -21,7 +21,7 @@
 </p>
 
 <h1 align="center">
-   ![Video_220620171243](https://user-images.githubusercontent.com/61808503/174672202-f426bdd8-8fd5-4d08-87d1-12b833004422.gif)
+  <img alt="React Native" src="https://user-images.githubusercontent.com/61808503/174672202-f426bdd8-8fd5-4d08-87d1-12b833004422.gif" />
 </h1>
 
 ## :page_with_curl: About
