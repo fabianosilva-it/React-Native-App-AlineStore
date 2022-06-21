@@ -1,7 +1,7 @@
-# React Native App Aline Store
+# React Native App - Aline Store
 
 <h1 align="center">
-  <img alt="React Firebase" src="https://miro.medium.com/max/1400/0*FsQGQO-4C5DZVZKY.png" />
+  <img alt="React Native" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200/https://www.sosdigital.com.br/wp-content/uploads/2020/10/react_native_vs_native_apps.png" />
 </h1>
 
 <p align="center">
