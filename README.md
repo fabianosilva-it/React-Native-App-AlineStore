@@ -1,4 +1,4 @@
-# Aline Store App
+# React Native App Aline Store
 
 <h1 align="center">
   <img alt="React Firebase" src="https://miro.medium.com/max/1400/0*FsQGQO-4C5DZVZKY.png" />
