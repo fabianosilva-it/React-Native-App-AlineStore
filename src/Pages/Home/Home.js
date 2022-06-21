@@ -14,6 +14,9 @@ import { Input, } from 'galio-framework';
 import makeup from '../../../assets/makeup.jpg';
 import logo from '../../../assets/logoMarca.png';
 
+
+// Imagens
+
 import baton1 from '../../../assets/baton1.png'
 import baton2 from '../../../assets/baton2.png'
 import baton3 from '../../../assets/baton3.png'
@@ -46,8 +49,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
 import { faSearch, faBars } from '@fortawesome/free-solid-svg-icons'
 
 export default function Home({ navigation }){
-
-  
+ 
   
   return (
       <ScrollView style={styles.container}>
