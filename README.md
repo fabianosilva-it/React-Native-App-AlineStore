@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fabianosilvait/React-Native-App-AlineStore">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fabianosilvait/react-firebase-authentication">
-  <img alt="Stars" src="https://img.shields.io/github/stars/fabianosilvait/react-firebase-authentication">
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/fabianosilvait/react-firebase-authentication">
+  <img src="https://img.shields.io/github/issues/fabianosilva-it/React-Native-App-AlineStore"/>
+  <img src="https://img.shields.io/github/forks/fabianosilva-it/React-Native-App-AlineStore"/>
+  <img src="https://img.shields.io/github/stars/fabianosilva-it/React-Native-App-AlineStore"/>
+  <img src="https://img.shields.io/github/license/fabianosilva-it/React-Native-App-AlineStore"/>
 </p>
 
 <p align="center">
@@ -26,21 +26,16 @@
 
 ## :page_with_curl: About
 This repository contains:
-- Fireabse authentication login 
-- List data from Firebase realtime database
-- React big Calendar
-- Dashborad Material UI.
+- Simple layout React Native App for Store.
 
 ## :hammer: Technologies
 
 This project was developed with the following technologies:
 
-- [React](https://reactjs.org/)
-- [Firebase](https://firebase.google.com/)
-- [React Router](https://reactrouter.com/)
-- [Date-fns](https://date-fns.org/)
-- [Recharts](https://recharts.org/en-US/)
-- [React Big Calendar](https://www.npmjs.com/package/react-big-calendar)
+- [React Native](https://reactnative.dev/)
+- [React Navigation](https://reactnavigation.org/docs/getting-started/)
+- [React Native Fontawesome](https://fontawesome.com/v5/docs/web/use-with/react-native)
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 - [VS Code](https://code.visualstudio.com/)
 
 ## :books: Requirements
@@ -50,31 +45,20 @@ This project was developed with the following technologies:
 ## :rocket: Getting started
 ``` bash
   # Clone the repository:
-  $ https://github.com/fabianosilvait/react-firebase-authentication-database.git
+  $ https://github.com/fabianosilva-it/React-Native-App-AlineStore.git
 
   # Enter directory:
-  $ cd react-firebase-authentication-database
+  $ cd React-Native-App-AlineStore
   
   # Install dependencies:
   $ yarn
   
-  # Rename .env.example to .env.
-  
-  # Set data from Firebase in .env file: 
-
-  REACT_APP_FIREBASE_KEY="xxxxxxxxxxxxxxxxxxxx"
-  REACT_APP_FIREBASE_DOMAIN="xxxxxxxxxxxx.firebaseapp.com"
-  REACT_APP_FIREBASE_DATABASE="https://xxxxxxxxxxxx.firebaseio.com"
-  REACT_APP_FIREBASE_PROJECT_ID="xxxxxxxxxxxxxx"
-  REACT_APP_FIREBASE_STORAGE_BUCKET="xxxxxxxxxxxxxx.appspot.com"
-  REACT_APP_FIREBASE_SENDER_ID=99999999999999
-  
   # Running :
-  $ yarn start
+  $ npx react-native run-android
 ```
 
-# :thought_balloon: Design Inspiration
-- Design inspired by [Material Ui design](https://mui.com/pt/material-ui/getting-started/templates/dashboard/).
+# :thought_balloon: Inspiration
+- Design inspired by my customer Aline.
 
 Made by Fabiano Silva 👋🏻 [Get in touch!](https://github.com/fabianosilvait)
 
