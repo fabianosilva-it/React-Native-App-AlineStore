@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fabianosilvait/react-firebase-authentication">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fabianosilvait/React-Native-App-AlineStore">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fabianosilvait/react-firebase-authentication">
   <img alt="Stars" src="https://img.shields.io/github/stars/fabianosilvait/react-firebase-authentication">
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/fabianosilvait/react-firebase-authentication">
