@@ -27,6 +27,7 @@
 ## :page_with_curl: About
 This repository contains:
 - Simple layout React Native App for Store.
+- Tab Navigation.
 
 ## :hammer: Technologies
 
